@@ -1,0 +1,2 @@
+kullanciadi:nickname
+sifre:password
